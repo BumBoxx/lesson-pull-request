@@ -1,19 +1,28 @@
 .main {
-    padding: 100px;
-    text-align: center;
     font-family: sans-serif;
     font-size: 48px;
     font-weight: 700;
     text-align: center;
     background-color: goldenrod;
+    padding: 100px;
 }
 
 .header {
-    padding: 100px 0;
+    font-family: sans-serif;
     font-size: 48px;
     font-weight: 700;
-    color: beige;
-    font-family: sans-serif;
-    background-color: darkseagreen;
     text-align: center;
+    background-color: darkseagreen;
+    color: beige;
+    padding: 100px 0;
+}
+
+.footer {
+    font-family: sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    background-color: lightslategray;
+    color: #fff;
+    padding: 100px;
 }
